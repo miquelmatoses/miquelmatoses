@@ -10,6 +10,7 @@
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/miquelmatoses)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/miquelmatoses)
+[![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white)](https://miquelmatoses.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/miquelmatoses%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miquelmatoses@gmail.com)
 [![Location](https://img.shields.io/badge/Copenhagen%2C+Denmark-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 
