@@ -13,6 +13,8 @@
 [![Portfolio](https://img.shields.io/badge/Portfolio-58a6ff?style=for-the-badge&logo=githubpages&logoColor=white)](https://miquelmatoses.github.io/portfolio/)
 [![Email](https://img.shields.io/badge/miquelmatoses%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miquelmatoses@gmail.com)
 [![Location](https://img.shields.io/badge/Copenhagen%2C+Denmark-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
+[![cercol.team](https://img.shields.io/badge/cercol.team-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://cercol.team)
+[![TopQuaranta](https://img.shields.io/badge/TopQuaranta-1DB954?style=for-the-badge&logo=django&logoColor=white)](https://github.com/miquelmatoses/TopQuaranta)
 
 <br/>
 
@@ -81,10 +83,23 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
 
+**Frontend & Fullstack**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=flat-square&logo=supabase&logoColor=white)
+
+**Backend & CMS**
+
+![Django](https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white)
+![Wagtail](https://img.shields.io/badge/Wagtail-43B1B0?style=flat-square&logo=wagtail&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+
 **Currently Exploring**
 
 ![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-3E3E3E?style=flat-square&logo=apache&logoColor=white)
-![Astronomer](https://img.shields.io/badge/Astronomer-00A3E0?style=flat-square&logoColor=white)
 
 ---
 
@@ -166,7 +181,7 @@ The best way to reach me is [LinkedIn](https://www.linkedin.com/in/miquelmatoses
 
 ![Profile Views](https://komarev.com/ghpvc/?username=miquelmatoses&style=flat-square&color=58a6ff&label=Profile+Views)
 &nbsp;
-![Last Updated](https://img.shields.io/badge/Last%20Updated-March%202026-58a6ff?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-58a6ff?style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,50:1a1b27,100:0d1117&height=80&section=footer&text=&animation=fadeIn" width="100%"/>
 
