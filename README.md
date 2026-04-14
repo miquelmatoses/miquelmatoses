@@ -14,7 +14,7 @@
 [![Email](https://img.shields.io/badge/miquelmatoses%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:miquelmatoses@gmail.com)
 [![Location](https://img.shields.io/badge/Copenhagen%2C+Denmark-4CAF50?style=for-the-badge&logo=googlemaps&logoColor=white)](#)
 [![cercol.team](https://img.shields.io/badge/cercol.team-FF6B6B?style=for-the-badge&logo=react&logoColor=white)](https://cercol.team)
-[![TopQuaranta](https://img.shields.io/badge/TopQuaranta-1DB954?style=for-the-badge&logo=django&logoColor=white)](https://github.com/miquelmatoses/TopQuaranta)
+[![TopQuaranta](https://img.shields.io/badge/TopQuaranta-1DB954?style=for-the-badge&logo=django&logoColor=white)](https://topquaranta.cat)
 
 <br/>
 
@@ -76,12 +76,15 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Railway](https://img.shields.io/badge/Railway-0B0D0E?style=flat-square&logo=railway&logoColor=white)
+![Hetzner](https://img.shields.io/badge/Hetzner-D50C2D?style=flat-square&logo=hetzner&logoColor=white)
 
 **BI & Reporting**
 
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0066FF?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
+![Recharts](https://img.shields.io/badge/Recharts-22B5BF?style=flat-square&logo=react&logoColor=white)
 
 **Frontend & Fullstack**
 
