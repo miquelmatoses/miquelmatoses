@@ -4,7 +4,7 @@
 
 # Miquel Matoses
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=22&pause=1000&color=0047ba&center=true&vCenter=true&random=false&width=650&lines=Data+Engineer+%7C+Analytics+Engineer;dbt+Certified+%E2%9C%94+%7C+Snowflake+Architect;Modern+Data+Stack+Builder;Turning+messy+pipelines+into+trusted+data;Copenhagen-based+%7C+Valencian+at+heart)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Roboto&weight=600&size=22&pause=1000&duration=1000&color=0047ba&center=true&vCenter=true&random=false&width=650&lines=Data+Engineer+%7C+Analytics+Engineer;dbt+Certified+%E2%9C%94+%7C+Snowflake+Architect;Modern+Data+Stack+Builder;Turning+messy+pipelines+into+trusted+data;Copenhagen-based+%7C+Valencian+at+heart)](https://git.io/typing-svg)
 
 <br/>
 
@@ -22,7 +22,7 @@
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0047ba&height=1" width="100%" />
 
 ## About
 
@@ -50,14 +50,14 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 
 | | |
 |:---|:---|
-| **8+** years in data engineering | **4+** years building production stacks |
-| **50+** legacy SQL scripts → modular dbt models | **99.9%** reliability on business-critical pipelines |
-| **3** industries: Travel · FMCG · Agri-food | **15** employees co-founded & scaled at Cèrcol Coop |
-| **1** data stack built from absolute zero | **200+** paellas cooked *(non-negotiable stat)* |
+| ![8+](https://img.shields.io/badge/8%2B-0047ba?style=flat-square) years in data engineering | ![4+](https://img.shields.io/badge/4%2B-0047ba?style=flat-square) years building production stacks |
+| ![50+](https://img.shields.io/badge/50%2B-cf3339?style=flat-square) legacy SQL scripts → modular dbt models | ![99.9%](https://img.shields.io/badge/99.9%25-427c42?style=flat-square) reliability on business-critical pipelines |
+| ![3](https://img.shields.io/badge/3-427c42?style=flat-square) industries: Travel · FMCG · Agri-food | ![15](https://img.shields.io/badge/15-0047ba?style=flat-square) employees co-founded & scaled at Cèrcol Coop |
+| ![1](https://img.shields.io/badge/1-111111?style=flat-square) data stack built from absolute zero | ![200+](https://img.shields.io/badge/200%2B-f1c22f?style=flat-square) paellas cooked *(non-negotiable stat)* |
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0047ba&height=1" width="100%" />
 
 ## Tech Stack
 
@@ -104,7 +104,7 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 
 ![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-111111?style=flat-square&logo=apache&logoColor=white)
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0047ba&height=1" width="100%" />
 
 ## GitHub Stats
 
@@ -120,7 +120,7 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 
 </div>
 
----
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0047ba&height=1" width="100%" />
 
 ## Certifications
 
