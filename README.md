@@ -22,9 +22,9 @@
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0047ba&height=1" width="100%" />
+<img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/section-divider.svg" width="400" />
 
-## About
+## <img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/icon-user-blue.svg" width="20" height="20" /> About
 
 8+ years engineering data systems across Travel, FMCG, and Agri-food industries. I build **modern data stacks** — clean, modular, tested, and actually trusted by the business. dbt Certified Analytics Engineer. Snowflake architect. The person who ships when everyone else is still in the planning meeting.
 
@@ -32,7 +32,7 @@ Currently **open to opportunities** in Data Engineering and Analytics Engineerin
 
 ---
 
-## What I Do
+## <img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/icon-arrow-right-blue.svg" width="20" height="20" /> What I Do
 
 ```
 Data Architecture  →  Design and build modern data stacks (dbt + Snowflake as the backbone)
@@ -44,7 +44,7 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 
 ---
 
-## By the Numbers
+## <img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/icon-data-blue.svg" width="20" height="20" /> By the Numbers
 
 <div align="center">
 
@@ -57,9 +57,9 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0047ba&height=1" width="100%" />
+<img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/section-divider.svg" width="400" />
 
-## Tech Stack
+## <img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/icon-target-blue.svg" width="20" height="20" /> Tech Stack
 
 **Core Data**
 
@@ -104,9 +104,9 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 
 ![Apache Iceberg](https://img.shields.io/badge/Apache%20Iceberg-111111?style=flat-square&logo=apache&logoColor=white)
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0047ba&height=1" width="100%" />
+<img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/section-divider.svg" width="400" />
 
-## GitHub Stats
+## <img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/icon-data-blue.svg" width="20" height="20" /> GitHub Stats
 
 <div align="center">
 
@@ -120,9 +120,9 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 
 </div>
 
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0047ba&height=1" width="100%" />
+<img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/section-divider.svg" width="400" />
 
-## Certifications
+## <img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/icon-check-green.svg" width="20" height="20" /> Certifications
 
 <div align="center">
 
@@ -137,7 +137,7 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 
 ---
 
-## The Human Part
+## <img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/icon-globe-blue.svg" width="20" height="20" /> The Human Part
 
 ```yaml
 origin:       Valencian — raised speaking Catalan, currently learning Danish
@@ -167,7 +167,7 @@ fun_fact:     I moved to a country where I don't speak the language yet.
 
 ---
 
-## Let's Connect
+## <img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/icon-share-blue.svg" width="20" height="20" /> Let's Connect
 
 I'm open to conversations about:
 
