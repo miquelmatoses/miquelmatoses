@@ -124,7 +124,7 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 
 <br/><br/>
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=miquelmatoses&theme=github-dark-blue&hide_border=true&background=111111&ring=0047ba&fire=cf3339&currStreakLabel=0047ba&sideLabels=0047ba&dates=ffffff" />
+<img src="https://streak-stats.demolab.com?user=miquelmatoses&theme=github-dark-blue&hide_border=true&background=111111&ring=0047ba&fire=cf3339&currStreakLabel=0047ba&sideLabels=0047ba&dates=ffffff" />
 
 </div>
 
