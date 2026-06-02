@@ -118,9 +118,9 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=miquelmatoses&show_icons=true&theme=github_dark&hide_border=true&bg_color=111111&title_color=0047ba&icon_color=0047ba&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miquelmatoses&show_icons=true&theme=github_dark&hide_border=true&bg_color=111111&title_color=0047ba&icon_color=0047ba&text_color=ffffff&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miquelmatoses&layout=compact&theme=github_dark&hide_border=true&bg_color=111111&title_color=0047ba&text_color=ffffff&langs_count=8" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miquelmatoses&layout=compact&theme=github_dark&hide_border=true&bg_color=111111&title_color=0047ba&text_color=ffffff&langs_count=8" />
 
 <br/><br/>
 
