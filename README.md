@@ -69,6 +69,8 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 ![Python](https://img.shields.io/badge/Python-0047ba?style=flat-square&logo=python&logoColor=white)
 ![Apache Airflow](https://img.shields.io/badge/Airflow-0047ba?style=flat-square&logo=apacheairflow&logoColor=white)
 ![Databricks](https://img.shields.io/badge/Databricks-cf3339?style=flat-square&logo=databricks&logoColor=white)
+![BigQuery](https://img.shields.io/badge/BigQuery-0047ba?style=flat-square&logo=googlebigquery&logoColor=white)
+![Dagster](https://img.shields.io/badge/Dagster-111111?style=flat-square&logo=dagster&logoColor=white)
 
 **Cloud & Infrastructure**
 
@@ -78,6 +80,8 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 ![Docker](https://img.shields.io/badge/Docker-0047ba?style=flat-square&logo=docker&logoColor=white)
 ![Railway](https://img.shields.io/badge/Railway-111111?style=flat-square&logo=railway&logoColor=white)
 ![Hetzner](https://img.shields.io/badge/Hetzner-cf3339?style=flat-square&logo=hetzner&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-0047ba?style=flat-square&logo=terraform&logoColor=white)
+![Bitbucket](https://img.shields.io/badge/Bitbucket-0047ba?style=flat-square&logo=bitbucket&logoColor=white)
 
 **BI & Reporting**
 
@@ -85,6 +89,7 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 ![Power BI](https://img.shields.io/badge/Power%20BI-f1c22f?style=flat-square&logo=powerbi&logoColor=black)
 ![Power Automate](https://img.shields.io/badge/Power%20Automate-0047ba?style=flat-square&logo=microsoftpowerautomate&logoColor=white)
 ![Recharts](https://img.shields.io/badge/Recharts-0047ba?style=flat-square&logo=react&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-cf3339?style=flat-square&logo=streamlit&logoColor=white)
 
 **Frontend & Fullstack**
 
@@ -97,8 +102,11 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 **Backend & CMS**
 
 ![Django](https://img.shields.io/badge/Django-111111?style=flat-square&logo=django&logoColor=white)
-![Wagtail](https://img.shields.io/badge/Wagtail-0047ba?style=flat-square&logo=wagtail&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-0047ba?style=flat-square&logo=postgresql&logoColor=white)
+
+**Previously Used**
+
+![Wagtail](https://img.shields.io/badge/Wagtail-0047ba?style=flat-square&logo=wagtail&logoColor=white)
 
 **Currently Exploring**
 
@@ -130,10 +138,32 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 |:---:|:---|:---|:---:|
 | [![dbt](https://img.shields.io/badge/Certified-cf3339?style=flat-square&logo=dbt&logoColor=white)](https://www.getdbt.com/certifications/analytics-engineer-certification/) | Analytics Engineering Certification | dbt Labs | 2026 |
 | [![Snowflake](https://img.shields.io/badge/Certified-0047ba?style=flat-square&logo=snowflake&logoColor=white)](#) | Core, AI & Data Warehousing Badges | Snowflake | 2024–2026 |
-| [![DataCamp](https://img.shields.io/badge/Certified-427c42?style=flat-square&logo=datacamp&logoColor=black)](#) | Data Engineer Associate (Snowflake track) | DataCamp | 2024 |
-| [![Astronomer](https://img.shields.io/badge/Certified-0047ba?style=flat-square&logo=apacheairflow&logoColor=white)](#) | Airflow 101 Certification | Astronomer | 2024 |
+| [![DataCamp](https://img.shields.io/badge/Certified-427c42?style=flat-square&logo=datacamp&logoColor=black)](#) | Data Engineer Associate (Snowflake track) | DataCamp | 2026 |
+| [![Astronomer](https://img.shields.io/badge/Certified-0047ba?style=flat-square&logo=apacheairflow&logoColor=white)](#) | Airflow 101 Certification | Astronomer | 2026 |
+| [![Belbin](https://img.shields.io/badge/Accredited-427c42?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)](#) | Team Roles Accredited | Belbin | 2024 |
+| [![EASA](https://img.shields.io/badge/Certified-0047ba?style=flat-square&logo=data:image/svg+xml;base64,&logoColor=white)](#) | Remote Pilot Certification | EASA | 2023 |
+| [![Google](https://img.shields.io/badge/Certified-f1c22f?style=flat-square&logo=google&logoColor=black)](#) | Foundations of Project Management | Coursera / Google | 2021 |
 
 </div>
+
+<img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/section-divider.svg" width="400" />
+
+## <img src="https://raw.githubusercontent.com/miquelmatoses/mm-design/main/icons/readme/icon-code-blue.svg" width="20" height="20" /> Projects
+
+**[cercol.team](https://cercol.team)** — Personality Assessment Platform (Open-source)
+> IPIP-based psychometric assessment with a 12-role system on the AB5C circumplex. 6 languages, Stripe payments, BigQuery SEO pipeline, FastMCP server for AI-assisted analysis.
+>
+> `React 19` `Vite` `FastAPI` `Supabase` `BigQuery` `Stripe`
+
+**[topquaranta.cat](https://topquaranta.cat)** — Music Analytics / Weekly Catalan Top 40
+> 14-coefficient ranking algorithm (age decay, monopoly penalties, novelty bonuses). Multi-API pipeline (Last.fm, Spotify, Deezer, MusicBrainz), Whisper-based language ID, Telegram bot.
+>
+> `Django 6` `PostgreSQL` `Hetzner` `React 19` `Vite` `scikit-learn`
+
+**[poblacio-valenciana](https://github.com/miquelmatoses/poblacio-valenciana)** — Valencian Demographics (Open data, CC0)
+> 125 years of population data for all 547 municipalities. INE API integration, bilingual name normalization, GitHub Actions quarterly automation. 20,995 clean records.
+>
+> `Python` `pandas` `GitHub Actions` `matplotlib`
 
 ---
 
@@ -184,7 +214,7 @@ The best way to reach me is [LinkedIn](https://www.linkedin.com/in/miquelmatoses
 
 ![Profile Views](https://komarev.com/ghpvc/?username=miquelmatoses&style=flat-square&color=0047ba&label=Profile+Views)
 &nbsp;
-![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202026-0047ba?style=flat-square)
+![Last Updated](https://img.shields.io/badge/Last%20Updated-June%202026-0047ba?style=flat-square)
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0047ba,50:111111,100:111111&height=80&section=footer&text=&animation=fadeIn" width="100%"/>
 
