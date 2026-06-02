@@ -118,13 +118,13 @@ Community Building  →  Active in Copenhagen data community · dbt Meetup organ
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miquelmatoses&show_icons=true&theme=github_dark&hide_border=true&bg_color=111111&title_color=0047ba&icon_color=0047ba&text_color=ffffff&include_all_commits=true&count_private=true" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api?username=miquelmatoses&show_icons=true&hide_border=true&bg_color=00000000&title_color=0047ba&icon_color=0047ba&text_color=111111&include_all_commits=true&count_private=true" />
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miquelmatoses&layout=compact&theme=github_dark&hide_border=true&bg_color=111111&title_color=0047ba&text_color=ffffff&langs_count=8" />
+<img height="170" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=miquelmatoses&layout=compact&hide_border=true&bg_color=00000000&title_color=0047ba&text_color=111111&langs_count=8" />
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=miquelmatoses&theme=github-dark-blue&hide_border=true&background=111111&ring=0047ba&fire=cf3339&currStreakLabel=0047ba&sideLabels=0047ba&dates=ffffff" />
+<img src="https://streak-stats.demolab.com?user=miquelmatoses&hide_border=true&background=FFFFFF00&ring=0047ba&fire=cf3339&currStreakLabel=0047ba&sideLabels=0047ba&dates=111111&currStreakNum=111111&sideNums=111111" />
 
 </div>
 
