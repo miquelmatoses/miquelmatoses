@@ -1,0 +1,7 @@
+
+# Claude Code (autoconsum, no es trackeja)
+.claude/
+.claude.json
+CLAUDE.md
+/CLAUDE_*.md
+.DS_Store
